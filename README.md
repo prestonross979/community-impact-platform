@@ -47,15 +47,6 @@ The objective is not simply to collect donations—it is to strengthen trust, im
 
 By replacing several disconnected experiences with one unified platform, organizations can spend less time managing technology and more time serving the people who depend on them.
 
-## Getting Started
-
-```bash
-npm install
-npm start
-```
-
-Then scan the QR code with Expo Go, or press `a` / `i` in the terminal for an emulator/simulator.
-
 ## Features
 
 - **Home Dashboard** — quick stats, featured project, and previews of prayer requests, feed, and goals
@@ -98,4 +89,14 @@ The application is fully interactive, but all data is currently stored using loc
 * Organization administration dashboard
 * Volunteer management
 * Analytics and reporting
+
+## Getting Started
+
+```bash
+npm install
+npm start
+```
+
+Then scan the QR code with Expo Go, or press `a` / `i` in the terminal for an emulator/simulator.
+
 
