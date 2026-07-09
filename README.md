@@ -70,3 +70,32 @@ Then scan the QR code with Expo Go, or press `a` / `i` in the terminal for an em
 - Expo (SDK 54) + React Native + TypeScript
 - React Navigation (bottom tabs + native stack)
 - Local mock data only — no backend, no real payments
+
+## Current Status
+
+This project is currently an **MVP (Minimum Viable Product)** focused on validating the user experience and overall product concept.
+
+The application is fully interactive, but all data is currently stored using local mock data. This allows the core workflows—including fundraising, prayer requests, community engagement, and shared goals—to be explored without requiring backend infrastructure.
+
+### Current Implementation
+
+* Interactive mobile interface built with Expo and React Native
+* Local state management
+* Mock fundraising campaigns
+* Simulated donation workflow
+* Prayer request creation and interaction
+* Community feed
+* Shared goals and progress tracking
+
+### Planned for Production
+
+* Secure user authentication
+* Cloud database
+* Persistent user accounts
+* Real-time synchronization
+* Payment processing
+* Push notifications
+* Organization administration dashboard
+* Volunteer management
+* Analytics and reporting
+
